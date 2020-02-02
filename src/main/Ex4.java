@@ -10,3 +10,4 @@ public class Ex4 {
 System.out.print("Suma este: " + suma);
 	}
 }
+// Suma este 1013

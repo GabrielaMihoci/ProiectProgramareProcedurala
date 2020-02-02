@@ -11,3 +11,4 @@ public class Ex3 {
 				System.out.println(a);
 	}
 }
+// nu afiseaza nimic deoarece a= 4

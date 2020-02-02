@@ -8,4 +8,5 @@ public class Ex2 {
 		System.out.println(++d>i?d:i);
 	}
 }
-// afiseaza 4.0 // fara eroare
+// afiseaza 4.0 // fara eroare 
+// deoarece prima instructiuni nu e adevarata atunci afiseaza valoarea lui i, adica 4
